@@ -62,4 +62,4 @@ Acceder a Grafana:
 https://grafana.local
 Usuario: admin / Password: admin
 
-El navegador mostrará advertencia por certificado autofirmado → aceptar excepción.
+El navegador mostrará advertencia por certificado autofirmado, aceptar excepción.
